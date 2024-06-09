@@ -1,70 +1,35 @@
-# Getting Started with Create React App
+## Esther ![Esther logo](https://raw.githubusercontent.com/shivdutt-B/Esther/main/src/Snapshots/favicon.ico).
+A clone of Apple's homepage for practice and learning purposes.
+[Apple Homepage Clone](https://appleclone-sable.vercel.app/)
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## Screenshot
+![apple-clone-1](https://github.com/shivdutt-B/Apple-Clone/assets/136951010/c97b9b48-1145-4b94-9421-973264f1610f)
+![apple-clone-2](https://github.com/shivdutt-B/Apple-Clone/assets/136951010/b0aa20b4-9eab-4564-8dc8-8dd8ec29d90d)
+![apple-clone-3](https://github.com/shivdutt-B/Apple-Clone/assets/136951010/368802a1-8b27-4553-b7d2-a7568b3aea3f)
+![apple-clone-4](https://github.com/shivdutt-B/Apple-Clone/assets/136951010/959ec4c3-cf2f-438c-b196-b933f646db73)
+![apple-clone-5](https://github.com/shivdutt-B/Apple-Clone/assets/136951010/31ee1b12-b81f-4a8c-988b-1c189c5b5c71)
+![apple-clone-6](https://github.com/shivdutt-B/Apple-Clone/assets/136951010/5cee6060-6f00-4c6f-b160-e5e812d30eb5)
+![apple-clone-7](https://github.com/shivdutt-B/Apple-Clone/assets/136951010/56d7b170-520a-4d00-9a4c-5707386bfff2)
 
-## Available Scripts
 
-In the project directory, you can run:
+## Technologies Used
+- html
+- css
+- javascript
 
-### `npm start`
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+## Description
+This project is a clone of Apple's homepage, created to enhance web development skills
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
 
-### `npm test`
+## Features
+- Faithful reproduction of the Apple homepage layout.
+- Responsive design for various screen sizes.
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
 
-### `npm run build`
+## Clone the repository
+git clone https://github.com/shivdutt-B/Apple-Clone.git
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+## Acknowledgements
+Thanks to Apple for the design inspiration.
