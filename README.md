@@ -26,6 +26,7 @@
 - html
 - css
 - javascript
+- reactjs
 
 
 ## Description
@@ -33,7 +34,10 @@ This project is a clone of Apple's homepage, created to enhance web development 
 
 
 ## Features
-- Faithful reproduction of the Apple homepage layout.
+- Provides information like title, title type, run time, netflix id, imdb id, rating, date about a large number of webseries and movies.
+- Seperate results by their title type (movies or series). Also seperate results by date and generas.
+- Explore movies and shows according to generas.
+- Search feature is available so users can search their favourite movies and shows.
 - Responsive design for various screen sizes.
 
 
@@ -42,4 +46,4 @@ git clone https://github.com/shivdutt-B/Apple-Clone.git
 
 
 ## Acknowledgements
-Thanks to Apple for the design inspiration.
+Thanks to api layer for providing the apis. 
