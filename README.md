@@ -1,4 +1,4 @@
-## <h1 style="border: 2px solid red">Esther</h1> ![Esther logo](https://raw.githubusercontent.com/shivdutt-B/Esther/main/src/Snapshots/favicon.ico)
+## <span style="border:2px solid red">Esther</span> ![Esther logo](https://raw.githubusercontent.com/shivdutt-B/Esther/main/src/Snapshots/favicon.ico)
 A clone of Apple's homepage for practice and learning purposes.
 [Apple Homepage Clone](https://appleclone-sable.vercel.app/)
 
