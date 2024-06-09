@@ -3,7 +3,7 @@
 
 [Apple Homepage Clone](https://appleclone-sable.vercel.app/)
 
-## Screenshot
+# Screenshot
 ![snap-shot-1](https://github.com/shivdutt-B/Esther/blob/main/src/Snapshots/s1_home.png)
 
 ---
@@ -23,18 +23,18 @@
 ![snap-shot-5](https://github.com/shivdutt-B/Esther/blob/main/src/Snapshots/s5_search_results.png)
 
 
-## Technologies Used
+# Technologies Used
 - html
 - css
 - javascript
 - reactjs
 
 
-## Description
+# Description
 This project is a clone of Apple's homepage, created to enhance web development skills
 
 
-## Features
+# Features
 - Provides information like title, title type, run time, netflix id, imdb id, rating, date about a large number of webseries and movies.
 - Seperate results by their title type (movies or series). Also seperate results by date and generas.
 - Explore movies and shows according to generas.
@@ -42,9 +42,9 @@ This project is a clone of Apple's homepage, created to enhance web development 
 - Responsive design for various screen sizes.
 
 
-## Clone the repository
+# Clone the repository
 git clone https://github.com/shivdutt-B/Esther.git
 
 
-## Acknowledgements
+# Acknowledgements
 Thanks to [apilayer](https://apilayer.com/) for providing the apis. 
