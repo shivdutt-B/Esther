@@ -31,20 +31,19 @@
 
 
 # Description
-This project is a clone of Apple's homepage, created to enhance web development skills
+Welcome to Esther, your ultimate destination for everything related to movies and series! Whether you're a cinephile, a TV show enthusiast, or just looking for your next binge-worthy watch, Esther has got you covered.
 
 
 # Features
-- Provides information like title, title type, run time, netflix id, imdb id, rating, date about a large number of webseries and movies.
-- Seperate results by their title type (movies or series). Also seperate results by date and generas.
-- Explore movies and shows according to generas.
-- Search feature is available so users can search their favourite movies and shows.
-- Responsive design for various screen sizes.
-
+- Offers details such as title, type, runtime, Netflix ID, IMDb ID, rating, and release date for a wide range of web series and movies.
+- Categorize results by type (movies or series), as well as by release date and genre.
+- Discover movies and shows by exploring different genres.
+- Includes a search feature allowing users to find their favorite movies and shows.
+- Features a responsive design that adapts to various screen sizes.
 
 # Clone the repository
-git clone https://github.com/shivdutt-B/Esther.git
+`git clone https://github.com/shivdutt-B/Esther.git`
 
 
 # Acknowledgements
-Thanks to [apilayer](https://apilayer.com/) for providing the apis. 
+Thanks to [apilayer](https://apilayer.com/) for providing such flexible api. 
