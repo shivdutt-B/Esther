@@ -1,7 +1,7 @@
 # Esther ![Esther logo](https://raw.githubusercontent.com/shivdutt-B/Esther/main/src/Snapshots/favicon.ico)
 "Discover comprehensive information about movies and websites in one convenient place."
 
-[Apple Homepage Clone](https://esther-beta.vercel.app/)
+[Esther](https://esther-beta.vercel.app/)
 
 # Screenshot
 ![snap-shot-1](https://github.com/shivdutt-B/Esther/blob/main/src/Snapshots/s1_home.png)
