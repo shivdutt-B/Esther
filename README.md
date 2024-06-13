@@ -49,6 +49,5 @@ Welcome to Esther, your ultimate destination for everything related to movies an
 Thanks to [apilayer](https://apilayer.com/) for providing such flexible api. 
 
 # Note
-<b><span style="color:red">If the website is not working, it might be because the monthly limit of 3,000 API calls has been reached. Additionally, the APIs are somewhat slow, which may cause the website to have longer loading times.</span></b>
-<span style="color:red; font-weight:bold">This text is bold and red</span>
+<b>If the website is not working, it might be because the monthly limit of 3,000 API calls has been reached. Additionally, the APIs are somewhat slow, which may cause the website to have longer loading times.</b>
 
